@@ -3,10 +3,11 @@
 ##### 🌱 I’m currently learning:
 
 
-  [![Csharp](https://img.shields.io/badge/-C%23-black?logo=csharp)](https://docs.microsoft.com/dotnet/csharp/)
+  [![csharp](https://img.shields.io/badge/-C%23-black?logo=csharp)](https://docs.microsoft.com/dotnet/csharp/)
   [![dotnet](https://img.shields.io/badge/-.NET-black?logo=dotnet)](https://docs.microsoft.com/dotnet/)
   [![typescript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)](https://www.typescriptlang.org)
   [![nodedotjs](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs)](https://nodejs.dev)
+  [![rust](https://img.shields.io/badge/-Rust-black?logo=rust)](https://www.rust-lang.org)
    
    
 ##### 🛠️ Tools I use:
