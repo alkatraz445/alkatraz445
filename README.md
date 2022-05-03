@@ -7,6 +7,8 @@
   [![dotnet](https://img.shields.io/badge/-.NET-black?logo=dotnet)](https://docs.microsoft.com/dotnet/)
   [![typescript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)](https://www.typescriptlang.org)
   [![nodedotjs](https://img.shields.io/badge/-Node.js-black?logo=nodedotjs)](https://nodejs.dev)
+  [![vue](https://img.shields.io/badge/-Vue.js-black?logo=vuedotjs)](https://vuejs.org)
+  [![nuxt](https://img.shields.io/badge/-Nuxt.js-black?logo=nuxtdotjs)](https://v3.nuxtjs.org)
   [![rust](https://img.shields.io/badge/-Rust-black?logo=rust)](https://www.rust-lang.org)
    
    
