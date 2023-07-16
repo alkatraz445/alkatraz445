@@ -13,6 +13,7 @@
 
   [![visual studio code](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode)](https://code.visualstudio.com)
   [![macos](https://img.shields.io/badge/-macOS-black?logo=macos)](https://www.apple.com/macos)
+  [![Fedora](https://img.shields.io/badge/Fedora-black?logo=fedora)](https://fedoraproject.org/)
   [![windows](https://img.shields.io/badge/-Winodws-black?logo=windows)](https://www.microsoft.com/windows)
   [![figma](https://img.shields.io/badge/-Figma-black?logo=figma)](https://www.figma.com)
 
