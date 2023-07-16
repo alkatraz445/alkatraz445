@@ -5,6 +5,7 @@
   [![nuxt](https://img.shields.io/badge/-Nuxt.js-black?logo=nuxtdotjs)](https://v3.nuxtjs.org)
   [![rust](https://img.shields.io/badge/-Rust-black?logo=rust)](https://www.rust-lang.org)
   [![csharp](https://img.shields.io/badge/-C%23-black?logo=csharp)](https://docs.microsoft.com/dotnet/csharp/)
+  [![python](https://img.shields.io/badge/:badgeContent?logo=python)](https://www.python.org/)
    
    
 ##### 🛠️ Tools I use:
