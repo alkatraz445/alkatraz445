@@ -7,6 +7,7 @@
 ##### 🌱 I’m currently learning:
 
   [![go](https://img.shields.io/badge/Go-black?logo=go)](https://go.dev/)
+  [![Java](https://img.shields.io/badge/Java-black?logo=eclipseadoptium&logoColor=FF1464)](https://adoptium.net/)
    
    
 ##### 🛠️ Tools I use:
